@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 unsigned char cong;
-unsigned char hehe;
 int mian()
 {
 
